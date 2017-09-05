@@ -1,4 +1,4 @@
-# chamberconf_pokoje
+# Chamberconf Pokoje
 
 
 ## Część pałacowa (33 miejsca)
@@ -85,3 +85,4 @@
 
 ## Hotel (10 miejsc)
 
+Osoby z listy dodatkowej zostana przypisane automatycznie przez organizatora.
