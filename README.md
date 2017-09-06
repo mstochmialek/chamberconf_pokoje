@@ -40,7 +40,7 @@
 |                     | 5288828044924         |
 
 
-## Podzamcze (24 miejsca)
+## Podzamcze (24 miejsca) - apartamenty!
 
 | Numer pokoju        | Numer biletu          | 
 | ------------------- |-----------------------|
@@ -69,7 +69,7 @@
 |                     |                       |
 |                     |                       |
 
-## Turystyczne (9 miejsc)
+## Turystyczne (9 miejsc) - nizszy standard
 
 | Numer pokoju        | Numer biletu          | 
 | ------------------- |-----------------------|
